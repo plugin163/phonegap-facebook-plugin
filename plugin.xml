@@ -16,7 +16,8 @@
       based authentication.&lt;/p&gt;
     </description>
     
-    <license>Apache 2.0</license>
+    <!-- Apache 2.0 -->
+    <license></license>
     
     <asset src="www/cdv-plugin-fb-connect.js" target="cdv-plugin-fb-connect.js" />
     <asset src="www/facebook-js-sdk.js" target="facebook-js-sdk.js" />
