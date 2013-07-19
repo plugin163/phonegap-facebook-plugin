@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.phonegap.xxxpluginsxxx.hellophonegapnewfeature2"
+    id="commmm.phonegap.xxxpluginsxxx.hellophonegapnewfeature2"
     version="0.3.2">
 
     <name>xxxpluginsxxx hellophonegapnewfeature2</name>
@@ -17,7 +17,7 @@
     </description>
     
     <!-- Apache 2.0 -->
-    <license>MIT</license>
+    <license>Apache 2.0</license>
     
     <asset src="www/cdv-plugin-fb-connect.js" target="cdv-plugin-fb-connect.js" />
     <asset src="www/facebook-js-sdk.js" target="facebook-js-sdk.js" />
