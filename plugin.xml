@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.phonegap.plugins.hellophonegapnewfeature2"
+    id="com.phonegap.xxxpluginsxxx.hellophonegapnewfeature2"
     version="0.3.2">
 
-    <name>hellophonegapnewfeature2</name>
+    <name>xxxpluginsxxx hellophonegapnewfeature2</name>
     
     <description>
       &lt;p&gt;This is the official plugin for Facebook in Apache Cordova/PhoneGap!&lt;/p&gt;
@@ -17,7 +17,7 @@
     </description>
     
     <!-- Apache 2.0 -->
-    <license></license>
+    <license>MIT</license>
     
     <asset src="www/cdv-plugin-fb-connect.js" target="cdv-plugin-fb-connect.js" />
     <asset src="www/facebook-js-sdk.js" target="facebook-js-sdk.js" />
