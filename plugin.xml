@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="comxxx.phonegap.plugins.hellophonegapnewfeature3"
+    id="comxxx.phonegap.plugins.chinesebranch01"
     version="0.3.2">
 
-    <name>helloIñtërnâtiônàlizætiønture2</name>
+    <name>h中文branch中文branch中文branch</name>
     
     <description>
-      &lt;p&gt;This i Iñtërnâtiônàlizætiøn ache Cordova/PhoneGap!&lt;/p&gt;
-      
-      &lt;p&gt;The Facebook plugin for Apache Cordova allows you to use the same JavaScript code in your
-      Cordova application as you use in your web application. However, unlike in the browser, the
-      Cordova application will use the native Facebook app to perform Single Sign On for the user.
-      If this is not possible then the sign on will degrade gracefully using the standard dialog
+      中文branch中文branch中文branch
+      中文branch
+      中文branch
+      中文branch
+      中文branch
       based authentication.&lt;/p&gt;
     </description>
     
