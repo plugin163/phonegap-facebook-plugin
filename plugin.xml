@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="comxxx.phonegap.plugins.hellophonegapnewfeature3"
+    id="comxxx.phonegap.plugins.hellophonegapnewfeature4"
     version="0.3.2">
 
-    <name>helloIñtërnâtiônàlizætiønture3</name>
+    <name>helloIñtërnâtiônàlizætiønture4</name>
     
     <description>
       &lt;p&gt;This i Iñtërnâtiônàlizætiøn ache Cordova/PhoneGap!&lt;/p&gt;
